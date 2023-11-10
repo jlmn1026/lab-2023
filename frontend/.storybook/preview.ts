@@ -13,3 +13,5 @@ const preview: Preview = {
 };
 
 export default preview;
+
+import "../src/index.css";
